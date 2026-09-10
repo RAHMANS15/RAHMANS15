@@ -34,4 +34,4 @@ I work at the intersection of data, machine learning, and intelligent software s
 - [Kaggle](https://www.kaggle.com/rahmans15)
 - [GitHub](https://github.com/RAHMANS15)
 
-I am interested in collaborating on applied AI, machine learning, data science, and agentic AI projects.
+I am interested in collaborating on applied AI, Deep Learning, Machine Learning, Data Science, and Agentic AI projects.
