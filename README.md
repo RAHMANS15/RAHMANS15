@@ -5,7 +5,7 @@
 I work at the intersection of data, machine learning, and intelligent software systems. My interests include building practical solutions with statistics, mathematics, deep learning, natural language processing, computer vision, and AI agent architectures.
 
 ## Focus Areas
-
+- Azure Administrator
 - Artificial Intelligence and Machine Learning
 - Deep Learning and Computer Vision
 - Natural Language Processing
